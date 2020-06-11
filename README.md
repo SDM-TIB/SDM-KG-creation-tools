@@ -7,4 +7,7 @@ This project presents the SDM-RDFizer, an interpreter of mapping rules that allo
 # Falcon
 FALCON is an entity and relation linking framework over DBpedia. FALCON identifies the relations and entities in a short text or question. Then link them to their corresponding URI in DBpedia knowledge graph.
 
+# KG endpoint
+
+
 # KG traversing
